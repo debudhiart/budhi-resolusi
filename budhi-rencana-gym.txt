@@ -8,6 +8,7 @@ b.	Upper Body (Isolate movement)
 -.	Bicep Curls 2x12+
 c.	Lower Body (Compound movement)
 -.	Squat 2x5, 1x5+
+-.	Press Machine squat 2x5, 1x5+
 
 2.	Rabu
 a.	Upper Body (Compound movement)
