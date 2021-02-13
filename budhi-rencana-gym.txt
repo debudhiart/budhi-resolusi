@@ -1,0 +1,9 @@
+1.	Senin , Jumat
+a.	Upper Body (Compound movement)
+-.	Benchpress 2x5, 1x5+
+-.	Chin-Up / Pull-Up 2x5, 1x5+
+b.	Upper Body (Isolate movement)
+-.	Lateral Raises 2x8, 1x8+
+-.	Bicep Curls 2x12+
+c.	Lower Body (Compound movement)
+-.	Squat 2x5, 1x5+
