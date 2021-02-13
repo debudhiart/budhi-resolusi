@@ -16,7 +16,5 @@ a.	Upper Body (Compound movement)
 -.	Barbell Bent Over Row  2 x 5, 1 x 5+
 b.	Upper Body (Isolate movement)
 -.	Incline Dumbbell Press 2 x 8, 1 x 8+
--.	Bicep Curls 2 x 12+
--.	Bicep Curls whit catols 2 x 12+
 c.	Lower Body (Compound movement)
 -.	Deadlift 1 x 5+
