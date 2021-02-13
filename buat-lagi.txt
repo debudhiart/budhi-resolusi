@@ -6,4 +6,7 @@ jadi bakal ada 5 commit
 ehh... 3 aja deh kek nyaa
 commit 1
 commit 2
-commit 3
+Nah sekarang ku bakal nyoba untuk menghapus dan menambahkan yang baru
+jadi tadi aku hapus commit 3
+dan bakal buat commit baru
+commit 3-1
